@@ -68,31 +68,34 @@ Following are the screenshots of the working API's while testing in POSTMAN
 -----
 This is a create task image while testing in postman
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ece01dff-ec76-4c36-8884-772e8be4c5c8" />
+<img width="1419" height="716" alt="image" src="https://github.com/user-attachments/assets/6bf78bcf-e602-492e-ae56-5a9c448d0e3a" />
 
 
 ----
 
 This is a Get All tasks image while testing in postman
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b066d784-361f-49d8-9ad0-860fd2d6b84f" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/3e3f2b03-8b30-4590-85dc-c72d9ddce0bc" />
+
 
 ----
 
 This is a Search task image while testing in postman
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c3558d1f-e68b-46d5-9dc3-43d62ebd42d9" />
+<img width="1434" height="714" alt="image" src="https://github.com/user-attachments/assets/5a44c57c-29ab-49a5-a7fd-95bec192262c" />
 
 ----
 
 
 This is a Delete task image while testing in postman
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/08c9591a-c024-40b4-9027-7244e9c3655a" />
+<img width="1421" height="555" alt="image" src="https://github.com/user-attachments/assets/37c0981d-5299-4587-a423-cfb70f5da20b" />
+
 
 ----
 
 This is a Update task image while testing in postman
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/92962959-1d52-4832-92fe-da86378f06f3" />
+<img width="1426" height="756" alt="image" src="https://github.com/user-attachments/assets/067761d5-5012-44fa-8bbc-35d951b776c3" />
+
 
